@@ -30,7 +30,7 @@ Web3.js v1.2.1
 9. `https://rinkeby.opensea.io/assets/0x74bc5e473fc3dbeeec8be610af28fcb32f5db8c3/9`
 10. `https://rinkeby.opensea.io/assets/0x74bc5e473fc3dbeeec8be610af28fcb32f5db8c3/10`
 
-##Testing the code
+## Testing the code
 
 Please make sure you've already installed ganache-cli, Truffle and enabled MetaMask extension in your browser.
 
