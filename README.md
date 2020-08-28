@@ -48,9 +48,9 @@ git clone https://github.com/kelvin84hk/Udacity-Blockchain-Capstone.git`
 
 5. Launch Ganache:
 
-```
+`
 ganache-cli -m "spirit supply whale amount human item harsh scare congress discover talent hamster"
-```
+`
 
 6. Run `cd eth-contracts` and `truffle test`
 
