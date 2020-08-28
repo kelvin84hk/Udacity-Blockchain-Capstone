@@ -28,7 +28,7 @@ Web3.js v1.2.1
 7. `https://rinkeby.opensea.io/assets/0x74bc5e473fc3dbeeec8be610af28fcb32f5db8c3/7`
 8. `https://rinkeby.opensea.io/assets/0x74bc5e473fc3dbeeec8be610af28fcb32f5db8c3/8`
 9. `https://rinkeby.opensea.io/assets/0x74bc5e473fc3dbeeec8be610af28fcb32f5db8c3/9`
-10.`https://rinkeby.opensea.io/assets/0x74bc5e473fc3dbeeec8be610af28fcb32f5db8c3/10`
+10. `https://rinkeby.opensea.io/assets/0x74bc5e473fc3dbeeec8be610af28fcb32f5db8c3/10`
 
 ##Testing the code
 
